@@ -29,14 +29,14 @@ input{
     width: 80%;
 }
 
-input:disabled{
-    input:disabled {
+/* input:disabled{
+     
     color: #fff !important;         
     opacity: 1;                      
     -webkit-text-fill-color: #fff;  
     background: transparent;       
-}
-}
+
+} */
 main{
     width: 100%;
     height: 100vh;
